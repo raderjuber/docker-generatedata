@@ -1,3 +1,4 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/benkeen/generatedata.git
+	branch = 3.2.6
